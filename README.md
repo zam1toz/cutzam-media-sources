@@ -23,3 +23,6 @@ bit-identical rebuilds are not promised.
 Please retain every released source archive and its matching runtime indefinitely,
 and fulfill the written source offer for at least three years after its last
 distribution. Contact: amsheep@myboool.com.
+
+
+Source-kit scope clarification: the original Opus source cache includes upstream LPCNet research/model data. The embedded offer phrase "AI speech models" refers to separate CutZam speech-recognition/alignment model packs; it does not exclude that upstream Opus cache. Runtime engine ZIPs contain no separate CutZam ASR model packs. Published ZIPs and hashes are unchanged.
